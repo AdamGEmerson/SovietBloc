@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6fe3621f8f751d441b0f75eb9a0deed9
+timeCreated: 1590699498
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kenney Rocket Square
+  fontNames:
+  - Kenney Rocket Square
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
